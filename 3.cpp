@@ -29,3 +29,6 @@ int main() {
 
     return 0;
 }
+
+//g++ -fopenmp file.cpp -o file.
+//./file
